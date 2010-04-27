@@ -19,6 +19,6 @@ Gem::Specification.new do |s|
 
 #  s.add_development_dependency "rspec"
 
-  s.files        = Dir.glob("lib/**/*") + %w()
+  s.files        = %w{LICENSE} + Dir.glob("lib/**/*") + %w()
   s.require_path = 'lib'
 end
