@@ -1,0 +1,9 @@
+tmp
+*.svn*
+*/**/.svn/*
+*.*~
+.DS_Store
+nbproject
+.autotest
+.idea
+ovni*.gem
